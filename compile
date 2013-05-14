@@ -1,0 +1,5 @@
+
+
+ghci -package wx Main.hs
+
+
